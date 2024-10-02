@@ -644,7 +644,7 @@ To get started with the **Nsp Oec Training Chapter 22** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](eye.png)  <br>![additional_image](neck.png)  <br>![additional_image](NSP_OEC_Training_Chapter_22.png)  <br>
+ ![additional_image](assessing_neck_injury.png)  <br>![additional_image](eye.png)  <br>![additional_image](neck.png)  <br>![additional_image](NSP_OEC_Training_Chapter_22.png)  <br>
     
 
 ## Github    
