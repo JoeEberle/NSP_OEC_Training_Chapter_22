@@ -605,7 +605,18 @@ Proper management of a dental injury can greatly increase the chances of saving 
 
 
 ## 22.8 List the signs and symptoms of emergent injuries to the face, eyes, and neck.
+
+
+
+
+
+
 ## 22.9 Describe and demonstrate how to assess face, eye, and neck injuries.
+
+
+
+
+
 ## 22.10 Describe and demonstrate the proper care of a face, eye, or anterior neck injury.
 
 
