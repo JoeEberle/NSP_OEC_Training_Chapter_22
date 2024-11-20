@@ -30,7 +30,7 @@ The **eye** is a highly specialized sensory organ responsible for **vision**, al
 
 ### 1. **Cornea**:
    - The **clear, dome-shaped outer layer** at the front of the eye that helps focus light onto the retina.
-   - It provides the majority of the eyeâ€™s refractive power, bending light as it enters the eye to help direct it toward the lens.
+   - It provides the majority of the eye’s refractive power, bending light as it enters the eye to help direct it toward the lens.
 
 ### 2. **Pupil and Iris**:
    - The **pupil** is the black circular opening in the center of the eye through which light enters.
@@ -40,7 +40,7 @@ The **eye** is a highly specialized sensory organ responsible for **vision**, al
 
 ### 3. **Lens**:
    - Located just behind the iris and pupil, the **lens** further focuses light onto the retina.
-   - The lens can **change shape** (becoming thicker or thinner) to adjust focus for objects at different distancesâ€”a process called **accommodation**.
+   - The lens can **change shape** (becoming thicker or thinner) to adjust focus for objects at different distances—a process called **accommodation**.
 
 ### 4. **Retina**:
    - The **retina** is the light-sensitive layer of tissue at the back of the eye that contains specialized cells called **photoreceptors** (rods and cones).
@@ -241,7 +241,7 @@ Managing a patient with a **penetrating injury to the eyeball** requires extreme
 
 ---
 
-### **Doâ€™s and Donâ€™ts in Penetrating Eye Injury Management**:
+### **Do’s and Don’ts in Penetrating Eye Injury Management**:
 
 - **Do**:
    - Stabilize the object.
@@ -249,7 +249,7 @@ Managing a patient with a **penetrating injury to the eyeball** requires extreme
    - Keep the patient calm and still.
    - Transport the patient urgently to medical care.
 
-- **Donâ€™t**:
+- **Don’t**:
    - **Do not** remove the penetrating object.
    - **Do not** apply pressure directly to the injured eye.
    - **Do not** allow the patient to eat or drink.
@@ -270,7 +270,7 @@ The **anterior neck** contains several important anatomical structures that are 
    - The **hyoid bone** is a small, U-shaped bone located at the base of the tongue, just above the larynx. It serves as an attachment site for muscles involved in swallowing and speech and is unique because it does not articulate with any other bones.
 
 ### 2. **Thyroid Cartilage**
-   - The **thyroid cartilage** forms the **Adamâ€™s apple** and is the largest cartilage of the larynx. It protects the vocal cords and the larynx.
+   - The **thyroid cartilage** forms the **Adam’s apple** and is the largest cartilage of the larynx. It protects the vocal cords and the larynx.
    - The **laryngeal prominence** (commonly referred to as the Adam's apple) is more pronounced in males due to hormonal influences during puberty.
 
 ### 3. **Cricoid Cartilage**
@@ -480,7 +480,7 @@ The **lacrimal glands** produce tears to **lubricate**, **protect**, **nourish**
 
 ## 22.7 Describe the management of a dental injury.
 
-Management of a **dental injury** requires timely care to reduce pain, prevent infection, and preserve the injured tooth or teeth. The management will vary based on the type and severity of the dental injury, which can range from minor chips to complete tooth displacement (avulsion). Hereâ€™s how to manage common dental injuries:
+Management of a **dental injury** requires timely care to reduce pain, prevent infection, and preserve the injured tooth or teeth. The management will vary based on the type and severity of the dental injury, which can range from minor chips to complete tooth displacement (avulsion). Here’s how to manage common dental injuries:
 
 ---
 
@@ -525,7 +525,7 @@ Management of a **dental injury** requires timely care to reduce pain, prevent i
 3. **Reimplant the Tooth** (if possible):
    - **Reinsert the tooth** into the socket as soon as possible.
    - Gently push the tooth into place and have the patient bite down on a gauze pad to keep it in position.
-   - If the tooth cannot be reinserted immediately, store it in a **container of milk**, **saline**, or **the patientâ€™s saliva** (inside the cheek) to preserve it.
+   - If the tooth cannot be reinserted immediately, store it in a **container of milk**, **saline**, or **the patient’s saliva** (inside the cheek) to preserve it.
 
 4. **Control Bleeding**:
    - Apply gentle pressure to the gum with **gauze** to control any bleeding.
@@ -546,7 +546,7 @@ Management of a **dental injury** requires timely care to reduce pain, prevent i
    - Have the patient **gently bite down** on a piece of **gauze** or a soft cloth to hold the tooth in its current position.
 
 2. **Rinse the Mouth**:
-   - Rinse the patientâ€™s mouth with **warm water** to clean the area and remove debris.
+   - Rinse the patient’s mouth with **warm water** to clean the area and remove debris.
 
 3. **Control Bleeding**:
    - If there is bleeding, apply **gentle pressure** with gauze to the gum around the tooth.
@@ -599,14 +599,14 @@ Management of a **dental injury** requires timely care to reduce pain, prevent i
 ### **General Management Tips**:
 - **Pain Management**: Over-the-counter pain relievers (e.g., ibuprofen) can help manage pain and swelling.
 - **Antibiotics**: If there is a risk of infection (such as in cases of avulsion or soft tissue injury), the dentist may prescribe antibiotics.
-- **Tetanus Consideration**: In cases of dental trauma involving **dirt or contamination**, ensure the patientâ€™s **tetanus vaccination** is up to date.
+- **Tetanus Consideration**: In cases of dental trauma involving **dirt or contamination**, ensure the patient’s **tetanus vaccination** is up to date.
 
 ---
 
 ### **Summary of Key Steps**:
 1. **Rinse the mouth** with warm water to clean the area.
 2. **Control bleeding** with gauze or clean cloth.
-3. **Preserve the tooth** (in cases of avulsion) by placing it in milk, saline, or the patientâ€™s saliva.
+3. **Preserve the tooth** (in cases of avulsion) by placing it in milk, saline, or the patient’s saliva.
 4. **Stabilize loose teeth** by biting down on gauze.
 5. **Seek immediate dental care** for proper evaluation and treatment.
 
@@ -636,24 +636,4 @@ Proper management of a dental injury can greatly increase the chances of saving 
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 22** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](assessing_neck_injury.png)  <br>![additional_image](eye.png)  <br>![additional_image](neck.png)  <br>![additional_image](NSP_OEC_Training_Chapter_22.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
